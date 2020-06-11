@@ -1,1 +1,1 @@
-Train a Neural network on iris dataset with Fixed four layer ELM. 
+Single-layer neural network trained by a fixed ELM method.
