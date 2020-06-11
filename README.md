@@ -1,1 +1,1 @@
-This is my projects on deep-learning during my masters
+These are my work on deep-learning during my masters
