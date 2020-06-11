@@ -7,6 +7,5 @@ keras-Applications==1.0.4
 sklearn==0.0
 Keras-Preprocessing==1.0.2
 
-
-Then, cmd -> pip install "requirement.txt"
+Then,run on cmd -> pip install "requirement.txt"
 
